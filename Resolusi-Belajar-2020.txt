@@ -8,21 +8,19 @@ RESOLUSI BELAJAR TAHUN 2020
 - GIT & GITHUB
   * GITHUB
   * GIT
- 
- - Framework Javascript
-   * Angular
-   * Jquery
-  
-- Framework PHP
-  * Codeigniter
-  * Laravel
   
  - Javascript
    * JS lanjutan
    
- -Framework Javascript
+- Framework PHP
+  * Codeigniter
+  * Laravel
+ 
+- Framework Javascript
    * Vue Js
    * React Js
+   * Angular
+   * Jquery
   
 - Framework CSS
   * Bootstrap
