@@ -29,7 +29,20 @@ RESOLUSI BELAJAR TAHUN 2020
   * TailwindCSS
  
  - Struktur Data Dasar
+  * Tipe Data 
  
  - Design
   * UX Design
   * UI Design
+  
+  - Design Graphic
+   * GIMP / Photoshop
+   * Inkscape / Coreldraw
+   
+  - 4-Dimensi
+   * Cinema 4D
+   
+  - Video Editing
+    - CorelVideoStudio-X10
+    - AdobePremiere / Lightwork
+    - Camtasia
