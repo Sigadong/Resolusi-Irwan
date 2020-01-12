@@ -1,0 +1,8 @@
+RESOLUSI BELAJAR TAHUN 2020
+
+- PHP Dasar
+- GIT & GITHUB
+- OOP PHP
+- Codeigniter
+- Bootstrap
+- Materialize
