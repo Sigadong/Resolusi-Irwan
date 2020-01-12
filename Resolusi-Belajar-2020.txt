@@ -13,6 +13,12 @@ RESOLUSI BELAJAR TAHUN 2020
   * Codeigniter
   * Laravel
   
+ - Javascript
+   * JS lanjutan
+   
+ -Framework Javascript
+   * Vue Js
+  
 - Framework CSS
   * Bootstrap
   * Materialize
