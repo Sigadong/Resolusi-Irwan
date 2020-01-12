@@ -18,6 +18,7 @@ RESOLUSI BELAJAR TAHUN 2020
    
  -Framework Javascript
    * Vue Js
+   * React Js
   
 - Framework CSS
   * Bootstrap
