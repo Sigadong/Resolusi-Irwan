@@ -8,7 +8,8 @@
 
 
 ==> BELAJAR, SKILL Yang di HARUS KUASAI 
-- PHP Dasar, OOP, MVC
+- PHP Dasar -> OKE
+- OOP, MVC
 - Github & GIT
 - Codeigniter
 - Bootstrap
