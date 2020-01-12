@@ -1,0 +1,20 @@
+RESOLUSI BELAJAR TAHUN 2020
+
+- PHP
+  * PHP Dasar
+  * OOP php
+  * MVC
+  
+- GIT & GITHUB
+  * GITHUB
+  * GIT
+  
+- Framework PHP
+  * Codeigniter
+  * Laravel
+  
+- Framework CSS
+  * Bootstrap
+  * Materialize
+  * Bulma
+  * TailwindCSS
