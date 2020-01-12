@@ -1,13 +1,13 @@
 RESOLUSI BELAJAR TAHUN 2020
 
 - PHP
-  * PHP Dasar
+  * PHP Dasar -> OK
   * OOP php
   * MVC
   
 - GIT & GITHUB
-  * GITHUB
-  * GIT
+  * GITHUB -> OK
+  * GIT -> OK
   
  - Javascript
    * JS lanjutan
@@ -22,27 +22,37 @@ RESOLUSI BELAJAR TAHUN 2020
    * Angular
    * Jquery
   
-- Framework CSS
+ - Framework CSS
   * Bootstrap
   * Materialize
   * Bulma
   * TailwindCSS
  
- - Struktur Data Dasar
+- Logika dan Algoritma
+   * Algoritma
+   * Pascal
+   * C++
+   
+- Struktur Data Dasar
   * Tipe Data 
  
  - Design
   * UX Design
   * UI Design
   
-  - Design Graphic
+ - Design Graphic
    * GIMP / Photoshop
    * Inkscape / Coreldraw
-   
+   * Adobe Ilustrator
+  
+ - Video Editing
+    * CorelVideoStudio-X10
+    * Lightwork / AdobePremiere
+    * Camtasia
+    
+  - Linux OS
+    * Ubuntu Linux
+    
   - 4-Dimensi
-   * Cinema 4D
+    * Cinema 4D
    
-  - Video Editing
-    - CorelVideoStudio-X10
-    - AdobePremiere / Lightwork
-    - Camtasia
