@@ -18,3 +18,7 @@ RESOLUSI BELAJAR TAHUN 2020
   * Materialize
   * Bulma
   * TailwindCSS
+  
+ - Design
+  * UX Design
+  * UI Design
