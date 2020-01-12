@@ -8,6 +8,10 @@ RESOLUSI BELAJAR TAHUN 2020
 - GIT & GITHUB
   * GITHUB
   * GIT
+ 
+ - Framework Javascript
+   * Angular
+   * Jquery
   
 - Framework PHP
   * Codeigniter
@@ -18,7 +22,9 @@ RESOLUSI BELAJAR TAHUN 2020
   * Materialize
   * Bulma
   * TailwindCSS
-  
+ 
+ - Struktur Data Dasar
+ 
  - Design
   * UX Design
   * UI Design
