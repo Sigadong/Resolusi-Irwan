@@ -14,6 +14,7 @@
 - Bootstrap
 - Materialize
 - Bulma
+- TailwindCSS
 - Terminal LINUX
 - Beli Buku IT
 
